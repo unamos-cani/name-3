@@ -1,2 +1,3 @@
 let list = ['bike', 'caminhão', 'carro', 'moto'];
-let numero = 14;
+let numero = 20;
+console.log (numero);
