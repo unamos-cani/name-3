@@ -1,1 +1,4 @@
-let name = 'manu';
+let nome = 'manu';
+console.log (nome);
+
+let list = ['bike', 'caminhão', 'carro', 'moto'];
